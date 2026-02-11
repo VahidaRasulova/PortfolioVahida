@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar.jsx";
 import Footer from "./components/Footer.jsx";
 
 import "./App.css";
-
+import "./Responsive.css";
 function App() {
   return (
     <BrowserRouter>

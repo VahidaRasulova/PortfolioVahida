@@ -1,0 +1,255 @@
+@media screen and (max-width: 1100px) {
+    .header__about h1 {
+        font-size: 50px;
+    }
+
+    .header__about p {
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+
+    .header__btn {
+        font-size: 16px;
+    }
+    .project__img__container{
+height: max-content;
+    }
+    .project__text h2{
+        font-size: 30px;
+    }
+    .project__text p{
+        font-size: 16px;
+    }
+    .project__info h3{
+        font-size: 20px;
+    }
+    .project__info__text h4{
+        font-size: 18px;
+    }
+    .project__info{
+        gap: 0;
+    }
+    .project__info__btn__box{
+        margin-top: 0;
+    }
+    .about__me h1{
+        font-size: 40px;
+       
+    }
+    .about__text h2{
+        font-size: 30px;
+        margin-bottom: 20px;
+        letter-spacing: 1px;
+         line-height: 40px;
+    }
+    .about__text p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+ .img__bilim img{
+        width: 200px !important;
+        height: 200px;
+    }
+    .img__tec img{
+        width: 200px !important;
+        height: 200px !important;
+    }
+    .img__men img{
+         width: 150px !important;
+        height: 150px !important;
+    }
+    .about{
+        margin-bottom: 60px;
+    }
+    section{
+        margin: 80px 0;
+    }
+    .footer__contact{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer__contact__text h2{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 900px) {
+.header__about h1{
+    font-size: 40px;
+}
+.project{
+    flex-direction: column;
+     border-bottom: 2px solid #222222;
+     padding-bottom: 40px;
+
+}
+.project__img__container{
+    width: 80%;
+    margin: 0 auto;
+}
+.project__text{
+    width: 80%;
+    text-align: justify;
+    margin: 0 auto;
+}
+.project__text h2{
+    text-align: center;
+}
+.project__info__btn__box{
+    justify-content: center;
+}
+.about{
+    flex-direction: column;
+    gap: 40px;
+}
+.about__me{
+    width: 80%;
+    height: 500px;
+}
+.about__text{
+    width: 80%;
+    text-align: center;
+}
+.about__text p{
+    text-align: justify;
+}
+.about__text h2{
+    font-size: 40px;
+}
+}
+@media screen and (max-width: 800px) {
+.header__about h1{
+    font-size: 30px;
+}
+.header__btn{
+    width: 150px;
+    font-size: 14px;
+}
+.btn__header__box{
+    width: 150px;
+}
+section{
+    margin: 60px 0;
+}
+}
+@media screen and (max-width: 650px) {
+    .navbar ul li{
+        font-size: 16px;
+    }
+    .nav__text{
+        font-size: 20px;
+    }
+    .nav__logo span{
+        font-size: 22px;
+    }
+    .animation__nav div{
+        width: 80px;
+    }
+    .animation__nav{
+        left: -30px;
+    }
+    .footer__contact__text h2{
+        font-size: 30px;
+    }
+    .footer__contact{
+        flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 40px;
+    }
+    .footer__contact__text{
+      text-align: center;
+    }
+    .about__text h2{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .about__me{
+        text-align: center;
+    }
+    .project__img__container{
+        padding: 40px;
+    }
+}
+@media screen and (max-width: 600px) {
+.header{
+    flex-direction: column;
+    position: relative;
+}
+.header__about{
+    width: 100%;
+    text-align: center;
+}
+.header__contact__me{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.header__about h1{
+    font-size: 50px;
+}
+.header__img{
+    width: 150px;
+    position: absolute;
+    z-index: -1;
+    bottom: 0;
+    right: 0;
+}
+.project{
+    gap: 40px;
+}
+.projects{
+    gap: 60px;
+}
+.project__text p{
+    font-size: 14px;
+}
+.project__info__text h4{
+    font-size: 16px;
+}
+.project__info__btn{
+    font-size:18px ;
+}
+}
+@media screen and (max-width: 500px) {
+    .header__about h1{
+        font-size: 40px;
+    }
+    .header__about p{
+        font-size: 14px;
+        max-width: 400px;
+        margin: 20px auto;
+    }
+    .navbar ul{
+        gap: 30px;
+    }
+    .footer__contact ul li span{
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .footer__contact__text h2{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .animation__footer{
+        top: -40px;
+    }
+footer{
+    padding: 20px;
+}
+footer h5{
+    font-size: 10px;
+}
+.about__text{
+    width: 90%;
+}
+.project__img__container{
+    width: 90%;
+}
+.project__text{
+    width: 90%;
+}
+.project__text h2{
+    font-size: 35px;
+}
+}
