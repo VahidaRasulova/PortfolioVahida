@@ -23,7 +23,7 @@ function About() {
                     </div>
                     <div className="about__text">
                         <h2>I am a Frontend Developer based in Azerbaijan.</h2>
-                        <p>I am a 23-year-old frontend developer from Azerbaijan with experience in over 100 diverse web projects. I also work as a Technology Instructor at the Quba branch in Azerbaijan, teaching children aged 6–14 programming and robotics. I have guided students through Scratch, mobile app development, Python, LEGO, mechanical motorized toys, and building various types of robots.
+                        <p>I am a 23-year-old frontend developer from Azerbaijan with experience in over 10 diverse web projects. I also work as a Technology Instructor at the Quba branch in Azerbaijan, teaching children aged 6–14 programming and robotics. I have guided students through Scratch, mobile app development, Python, LEGO, mechanical motorized toys, and building various types of robots.
 
                             In 2025, I participated in TechnoFest as part of the Bilim Azerbaijan team, gaining valuable experience in innovative technologies and collaborative projects with young talents. My goal is to inspire young minds while applying my technical expertise to real-world projects.</p>                    </div>
                 </div>

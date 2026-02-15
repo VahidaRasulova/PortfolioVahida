@@ -222,6 +222,9 @@ gap: 40px;
     .navbar ul{
         gap: 30px;
     }
+    .header__img{
+        display: none;
+    }
     .footer__contact ul li span{
         width: 40px;
         height: 40px;

@@ -552,4 +552,7 @@ footer h5 {
   letter-spacing: 1.6px;
   line-height: 25px;
   font-weight: 400;
+  hyphens: auto;
+
+
 }
