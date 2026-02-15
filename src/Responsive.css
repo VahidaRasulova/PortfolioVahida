@@ -255,4 +255,22 @@ footer h5{
 .project__text h2{
     font-size: 35px;
 }
+.img__tec{
+    display: none;
+}
+.img__men{
+    display: none;
+}
+.about__me{
+    height: max-content;
+}
+.img__bilim{
+    border-radius: 10px;
+    border: none;
+    width: 100% !important;
+}
+.img__bilim img{
+    border-radius: 10px;
+    width: 100% !important;
+}
 }
